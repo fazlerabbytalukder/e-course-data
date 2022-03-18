@@ -4,56 +4,64 @@
         "TecherName": "Ayeesha Abbasi",
         "Designation": "Management Expert",
         "img":"https://i.ibb.co/L8LTrZ7/Ayeesha-Abbasi.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/ayeesha-abbasi"
     },
     {
         "id": 2,
         "TecherName": "Patrick Beissner",
         "Designation": "Economics Expert",
         "img":"https://i.ibb.co/xD8fyzj/Patrick-Beissner.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/associate-professor-patrick-beissner"
     },
     {
         "id": 3,
         "TecherName": "Sarah Adams",
         "Designation": "Research Expert",
         "img":"https://i.ibb.co/tXcDVMX/Sarah-Adams.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/dr-sarah-adams"
     },
     {
         "id": 4,
         "TecherName": "Smriti Bajracharya",
         "Designation": "Data Science",
         "img":"https://i.ibb.co/Zzf13nv/Smriti-Bajracharya.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/smriti-bajracharya"
     },
     {
         "id": 5,
         "TecherName": "Pat Barrett",
         "Designation": "Web Expert",
         "img":"https://i.ibb.co/c1FYs60/Pat-Barrett.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/mr-pat-barrett"
     },
     {
         "id": 6,
         "TecherName": "Rajabi Asadabadi",
         "Designation": "Ai Expert",
         "img":"https://i.ibb.co/4sHkRX0/Mehdi-Rajabi-Asadabadi-2.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/dr-mehdi-rajabi-asadabadi"
     },
     {
         "id": 7,
         "TecherName": "Erdene Bayarjargal",
         "Designation": "Database Expert",
         "img":"https://i.ibb.co/WGbxqQC/Ariun-Bayarjargal.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/david-bryant"
     },
     {
         "id": 8,
         "TecherName": "Armin Haller",
         "Designation": "Machine Learning",
         "img":"https://i.ibb.co/9bgGQRH/Armin-Haller.jpg",
-        "star":"5"
+        "star":"5",
+        "link":"https://cbe.anu.edu.au/about/staff-directory/dr-aaron-bruhn"
     }
     
 ]
